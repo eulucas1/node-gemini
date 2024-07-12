@@ -1,0 +1,39 @@
+1. "A câmera do iPhone 15 Pro Max é fantástica e a bateria dura o dia inteiro. Nota 5. Estou muito satisfeito!"
+   
+2. "O design é elegante, mas tive problemas com a conectividade. Nota 2. Estou insatisfeito."
+
+3. "A tela é incrível e o desempenho é super rápido. Nota 4. Estou satisfeito."
+
+4. "Esperava mais pelo preço, especialmente em termos de bateria. Nota 3. Neutro."
+
+5. "Infelizmente, o iPhone 15 Pro Max esquenta muito durante o uso. Nota 1. Estou insatisfeito."
+
+6. "Adorei a qualidade das fotos e a velocidade do sistema. Nota 5. Estou muito satisfeito!"
+
+7. "A falta de carregador na caixa é decepcionante. Nota 2. Estou insatisfeito."
+
+8. "É um bom telefone, mas não vejo grandes melhorias em relação ao modelo anterior. Nota 3. Neutro."
+
+9. "Funciona perfeitamente, sem travamentos e com excelente qualidade de som. Nota 5. Estou muito satisfeito!"
+
+10. "A bateria não dura tanto quanto prometido. Nota 2. Estou insatisfeito."
+
+11. "Desempenho excelente, mas o preço é muito alto. Nota 3. Neutro."
+
+12. "É o melhor iPhone que já usei, vale cada centavo. Nota 5. Estou muito satisfeito!"
+
+13. "A qualidade da câmera não é tão boa quanto esperava. Nota 2. Estou insatisfeito."
+
+14. "Design sofisticado e muito rápido, mas a bateria poderia ser melhor. Nota 4. Estou satisfeito."
+
+15. "Estou adorando usar este telefone, é super rápido e a câmera é ótima. Nota 5. Estou muito satisfeito!"
+
+16. "Muitos problemas de conectividade com Wi-Fi. Nota 1. Estou insatisfeito."
+
+17. "Gostei do desempenho e da tela, mas acho que é caro demais. Nota 3. Neutro."
+
+18. "Muito bom para fotografias e vídeos, mas o preço é salgado. Nota 4. Estou satisfeito."
+
+19. "Desempenho decepcionante em jogos pesados. Nota 1. Estou insatisfeito."
+
+20. "Câmera é boa, mas esperava mais pelo preço pago. Nota 3. Neutro."
